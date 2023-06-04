@@ -1,0 +1,18 @@
+# Compiled output
+bin/
+build/
+contracts/
+
+# Local development
+node_modules/
+
+# Environment variables
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Dependency lock files
+yarn.lock
+package-lock.json
